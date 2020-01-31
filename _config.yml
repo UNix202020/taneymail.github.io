@@ -1,11 +1,11 @@
 # Site settings
-author: TShipley
-title: 
+author: T Shipley
+title: Code Becomes More Than Fun
 header-img: img/home-bg.png
 email: taneymail@gmail.com
-copyright_name: TShipley
+copyright_name: T Shipley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Programming Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  taneymail
